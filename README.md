@@ -9,7 +9,7 @@
 <hr>
 
 <h2>Como rodar o projeto?</h2>
-<p>Você terá duas formas de rodar o projeto, onde uma delas é localmente, e outra via deploy feito na plataforma render.</p>
+<p>Você terá duas formas de rodar o projeto, onde uma delas é localmente, e outra via deploy feito na plataforma <a href="https://dashboard.render.com/">render</a>.</p>
 <p>Segue tutorial:</p>
 
 <h3>Render</h3>
